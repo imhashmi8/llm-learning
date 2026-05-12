@@ -196,7 +196,7 @@ challenge/
 # WandB local sync data.
 wandb/
 
-week2/**/prices.db
+
 week4/main.cpp
 week4/main
 week4/main.exe
@@ -220,4 +220,16 @@ week8/*.pth
 setup
 guides
 community-contributions
-extra
+extras
+assets
+week1/
+week2/
+week4/
+week5/
+week6/
+week7/
+week8/
+QUESTHER*
+**/*-old*
+settings.local.json
+README.md
